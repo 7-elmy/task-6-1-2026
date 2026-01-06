@@ -1,5 +1,6 @@
 'use client';
 
+import { Footer } from '@/components/Footer';
 import { Link } from '@/i18n/routing';
 import { Star, ShoppingBag, Heart } from 'lucide-react';
 import { useState } from 'react';
@@ -67,7 +68,8 @@ export default function ProductsPage() {
   };
 
   return (
-    <div className="min-h-screen bg-[#FEFEFE] dark:bg-black px-4 sm:px-8 md:px-16 lg:px-[120px] py-12">
+    <div className="min-h-screen bg-[#FEFEFE] dark:bg-black ">
+      <div className='px-4 sm:px-8 md:px-16 lg:px-[120px] py-12'>
       <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-8">Products</h1>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -163,6 +165,10 @@ export default function ProductsPage() {
           </div>
         ))}
       </div>
+
+      </div>
+
+      <Footer />
     </div>
   );
 }
