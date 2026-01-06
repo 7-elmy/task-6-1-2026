@@ -1,0 +1,121 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "hello": "Hello",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "footer": {
+    "description": "Ipsam in eos qui consequatur ab cum maxime.Soluta dolor quae Ipsam in eos qui consequatur ab .Soluta dolor quae Ipsam in eos quconsequatur ab cum maxime.Soluta dolor quae",
+    "help": {
+      "title": "Let Us Help",
+      "account": "My Account",
+      "faq": "FAQs",
+      "categories": "Categories",
+      "products": "All Products"
+    },
+    "policies": {
+      "title": "Policies",
+      "refund": "Refund Policy",
+      "about": "About Us",
+      "cancellation": "Cancellation Policy",
+      "terms": "Terms and Conditions",
+      "privacy": "Privacy Policy"
+    },
+    "email": {
+      "title": "Send Email",
+      "placeholder": "Email address",
+      "send": "Send"
+    },
+    "social": {
+      "title": "Follow Us"
+    }
+  },
+  "header": {
+    "nav": {
+      "home": "Home",
+      "category": "Our Category",
+      "about": "About Us",
+      "contact": "Contact Us",
+      "faq": "FAQs"
+    },
+    "actions": {
+      "cart": "Shopping Cart",
+      "notifications": "Notifications",
+      "favorites": "Favorites",
+      "profile": "User Profile"
+    }
+  },
+  "product": {
+    "title": "Product Details",
+    "breadcrumb": {
+      "home": "Home",
+      "category": "Our Category",
+      "product": "Product Details"
+    },
+    "category": "T-Shirt",
+    "productTitle": "J.VER Man Shirts Solid Long Sleeve Stretch Wrinkle-Free With Blue",
+    "priceNote": "This price is exclusive of taxes.",
+    "description": "Lorem ipsum dolor sit , consectetuer adipiscing elit, sed diam nonummy Lorem ipsum dolor sit amet, diam nonummy",
+    "type": "Cotton",
+    "typeLabel": "Type",
+    "sizeLabel": "Size",
+    "colors": "Colors",
+    "selectedColor": "Blue",
+    "quantity": "Quantity",
+    "perPiece": "for Piece",
+    "addToCart": "Add To Cart",
+    "ratingTitle": "Rating & Reviews",
+    "totalReviews": "Total Reviews",
+    "addComment": "Add Comment",
+    "viewMoreComments": "View More Comments",
+    "similarItems": "Similar Items"
+  },
+  "auth": {
+    "register": {
+      "title": "Create Account",
+      "fullName": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "phone": "Phone Number",
+      "countryCode": "Country Code",
+      "type": "Account Type",
+      "client": "Client",
+      "restaurant": "Restaurant",
+      "submit": "Register",
+      "haveAccount": "Already have an account?",
+      "login": "Login"
+    },
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Login",
+      "noAccount": "Don't have an account?",
+      "register": "Register"
+    },
+    "verify": {
+      "title": "Verify Account",
+      "code": "Verification Code",
+      "submit": "Verify",
+      "resend": "Resend Code",
+      "enterCode": "Enter the verification code sent to your email"
+    },
+    "dashboard": {
+      "welcome": "Welcome",
+      "logout": "Logout"
+    }
+  },
+  "notFound": {
+    "title": "404",
+    "heading": "Page Not Found",
+    "description": "The page you are looking for doesn't exist or has been moved.",
+    "goToProducts": "Go to Products",
+    "goHome": "Go Home"
+  }
+}
+
