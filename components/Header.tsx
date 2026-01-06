@@ -158,7 +158,7 @@ export function Header() {
 
             {/* Dropdown Menu */}
             {isProfileMenuOpen && (
-              <div className={`absolute top-full mt-2 w-48 sm:w-28 bg-white dark:bg-black rounded-lg shadow-lg border border-gray-200 dark:border-gray-700 py-2 z-50 ${
+              <div className={`absolute top-full mt-2 w-48 sm:w-48 bg-white dark:bg-black rounded-lg shadow-lg border border-gray-200 dark:border-gray-700 py-2 z-50 ${
                 locale === 'ar' 
                   ? 'left-0 sm:-left-10' 
                   : 'right-0 sm:-right-10'
